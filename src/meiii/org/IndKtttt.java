@@ -7,6 +7,8 @@ public void username() {
 public void password() {
 	System.out.println("lastname");
 
+	System.out.println("indiab");
+
 }
 
 }
